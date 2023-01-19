@@ -1,0 +1,41 @@
+:root {
+    --coral: #DE6B6B;
+    --white-smoke: #F0ECED;
+    --small: .9em;
+    --price: 1.3em;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.card-icon {
+    background-color: var(--white-smoke) !important;
+}
+
+.card-icon:hover {
+    background-color: rgba(215, 215, 215, 0.884) !important;
+}
+
+.img-product {
+    background-size: cover;
+}
+
+.title-product {
+    font-family: "RalewayExtraBold";
+}
+
+.text-type {
+    font-family: "RalewayMedium";
+    font-size: var(--small) !important;
+}
+
+.text-price {
+    color: var(--coral) !important;
+    font-size: var(--price) !important;
+    font-family: "RalewayExtraBold";
+}
+
+.bg-ash {
+    background: var(--white-smoke) !important;
+}

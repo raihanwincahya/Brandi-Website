@@ -1,0 +1,25 @@
+* {
+    font-family: "RalewayBold";
+}
+
+:root {
+    --active: #373737;
+    --unactive: #D4CDCD;
+    --white: #F6F5F6;
+}
+
+.background {
+    background: var(--white);
+}
+
+.link:active {
+    color: var(--active);
+}
+
+.link {
+    color: var(--unactive);
+}
+
+.link:hover {
+    color: var(--active);
+}

@@ -1,0 +1,93 @@
+:root {
+    --active: #373737;
+    --unactive: #D4CDCD;
+    --coral: #DE6B6B;
+    --white-smoke: #F0ECED;
+    --white: #FFFFFF;
+}
+
+.link {
+    font-family: "RalewaySemiBold";
+    color: var(--unactive) !important;
+}
+
+.active {
+    color: var(--active) !important;
+}
+
+.box-search-icon {
+    color: var(--active) !important;
+    background-color: var(--white-smoke) !important;
+    border: var(--active);
+    top: 17%;
+    left: 5%;
+    z-index: 1;
+    width: 30px !important;
+    height: 26px !important;
+}
+
+.form {
+    padding-left: 3.5em !important;
+    font-size: 1em !important;
+    font-family: "RalewayRegular";
+}
+
+.icon {
+    top: -30% !important;
+    left: -20% !important;
+    background-color: var(--coral) !important;
+}
+
+.box-modal {
+    top: 10% !important;
+    left: 47% !important;
+    background: none !important;
+}
+
+.modal-header {
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+    background-color: var(--white-smoke) !important;
+}
+
+.modal-body {
+    border-bottom-left-radius: 10px !important;
+    border-bottom-right-radius: 10px !important;
+    background-color: var(--white-smoke) !important;
+}
+
+.form-modal {
+    padding: .6rem 0 !important;
+    padding-left: 4.2em !important;
+    font-family: "RalewayRegular";
+    background-color: var(--white) !important;
+}
+
+.bg-ash {
+    background-color: var(--white-smoke) !important;
+}
+
+.bg-ash:hover {
+    background-color: #D4CDCD !important;
+}
+
+.card-favourite {
+    padding: .8rem .5rem;
+    width: 94% !important;
+}
+
+.box-text h1 {
+    font-family: "RalewayBold";
+}
+
+.box-text p {
+    font-family: "RalewayRegular";
+    font-size: .8em;
+}
+
+.price-text {
+    top: 80%;
+    left: 60%;
+    font-family: "RalewayBold";
+    color: var(--coral);
+}

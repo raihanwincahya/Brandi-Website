@@ -1,0 +1,13 @@
+.bg-coral {
+    background: #DE6B6B !important;
+}
+
+.badges-order {
+    top: -15% !important;
+    left: 50% !important;
+    font-size: .6em !important;
+}
+
+.fw-semi-bold {
+    font-family: 'RalewaySemiBold';
+}

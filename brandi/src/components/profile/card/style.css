@@ -1,0 +1,17 @@
+:root {
+    --coral: #DE6B6B;
+    --medium: "RalewayMedium";
+    --bold: "RalewayBold";
+}
+
+.fw-medium {
+    font-family: var(--medium);
+}
+
+.fw-bold {
+    font-family: var(--bold);
+}
+
+.text-coral {
+    color: var(--coral);
+}

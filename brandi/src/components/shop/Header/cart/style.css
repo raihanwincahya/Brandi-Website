@@ -1,0 +1,15 @@
+.bg-box {
+    background: #F0ECED !important;
+}
+
+.text-coral {
+    color: #DE6B6B;
+}
+
+.btn-coral {
+    background-color: #DE6B6B !important;
+}
+
+.btn-coral:hover {
+    background-color: #db3131 !important;
+}

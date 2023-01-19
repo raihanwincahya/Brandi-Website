@@ -1,0 +1,33 @@
+:root {
+    --coral: #DE6B6B;
+    --white-smoke: #F0ECED;
+}
+
+.background {
+    background: var(--white-smoke);
+}
+
+.box-user {
+    background: url('../../image/profile/bg-img.png');
+    background-size: cover;
+    min-height: 30vh;
+    border-bottom-left-radius: 26px;
+    border-bottom-right-radius: 26px;
+}
+
+.logo-img {
+    width: 160px;
+    height: auto;
+}
+
+.box-img-user {
+    top: 80%;
+    left: 84%;
+    width: 110px;
+    height: 110px;
+}
+
+.img-user {
+    width: 100px;
+    height: 100px;
+}

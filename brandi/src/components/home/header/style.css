@@ -1,0 +1,28 @@
+:root {
+    --white: #F6F5F6;
+    --coral: #DE6B6B;
+    --heading: 5em;
+}
+
+.background {
+    background: var(--white) !important;
+}
+
+.layout-text {
+    padding-left: 7.8rem !important;
+}
+
+.heading {
+    font-family: "RalewayExtraBold";
+    font-size: var(--heading) !important;
+    color: var(--coral);
+}
+
+.description {
+    font-family: "RalewayRegular";
+}
+
+.cta {
+    font-family: "RalewaySemiBold";
+    cursor: pointer;
+}

@@ -1,0 +1,57 @@
+:root {
+    --white: #F6F5F6;
+    --coral: #DE6B6B;
+    --white-badge: #FFFFFF;
+}
+
+.bg-box {
+    background: var(--white) !important;
+}
+
+.linked {
+    font-family: "RalewayMedium" !important;
+}
+
+.linked-active {
+    color: var(--coral) !important;
+    font-family: "RalewaySemiBold" !important;
+}
+
+.box-search {
+    font-family: "RalewaySemiBold";
+}
+
+.icon-filter {
+    top: 30%;
+    right: 6%;
+}
+
+.layout-box>.hero-card-left {
+    width: 59% !important;
+    height: 13rem;
+    background: url(../../image/shop/bg-header/bg-hero-1.png);
+    background-size: cover;
+    column-gap: 2%;
+}
+
+.badges {
+    color: var(--coral) !important;
+    font-family: "RalewayExtraBold";
+}
+
+.descrip {
+    font-family: "RalewayRegular" !important;
+}
+
+.title {
+    margin-top: 5rem !important;
+    font-family: "RalewayBold" !important;
+}
+
+.layout-box>.hero-card-right {
+    width: 39% !important;
+    border: none !important;
+    height: 13rem;
+    background: url(../../image/shop/bg-header/bg-hero-2.png);
+    background-size: cover;
+}

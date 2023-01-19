@@ -1,0 +1,8 @@
+.bg-product-grey {
+    top: -35% !important;
+}
+
+.bg-card {
+    background: url('../../image/shop/bg-card/bg-card.png') no-repeat;
+    min-height: 100vh;
+}

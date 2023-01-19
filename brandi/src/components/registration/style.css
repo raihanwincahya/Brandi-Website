@@ -1,0 +1,56 @@
+.coral {
+    background: #DE6B6B !important;
+}
+
+.text-coral {
+    color: #DE6B6B !important;
+}
+
+.border-coral {
+    border-color: #DE6B6B !important;
+}
+
+.bg-regis {
+    background: #F6F5F6;
+}
+
+.img-login {
+    background: url('../image/registration/signin_bg.png') no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    min-height: 110vh;
+}
+
+.img-register {
+    background: url('../image/registration/signup_bg.png') no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    min-height: 125vh;
+}
+
+.w-60 {
+    width: 60% !important;
+}
+
+.box-form {
+    margin: 7rem 0;
+}
+
+.fw-regular {
+    font-family: 'RalewayRegular';
+}
+
+.fw-bold {
+    font-family: 'RalewayBold';
+}
+
+.fw-extra-bold {
+    font-family: 'RalewayExtraBold';
+}
+
+.lines {
+    height: 8px !important;
+    width: 8%;
+}

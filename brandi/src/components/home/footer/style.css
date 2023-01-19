@@ -1,0 +1,18 @@
+:root {
+    --coral: #DE6B6B;
+    --black: #000000;
+}
+
+.logo {
+    width: 65px;
+    height: 57px;
+}
+
+.menu {
+    color: var(--coral);
+    font-family: "RalewayBold";
+}
+
+.footer-name {
+    font-family: "RalewayMedium";
+}
